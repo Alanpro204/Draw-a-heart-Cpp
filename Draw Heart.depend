@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1707937653 source:c:\users\alain\documents\proyectos c++\draw heart\main.cpp
+	<iostream>
+	<cmath>
+	<unistd.h>
+	<time.h>
+	<stdio.h>
+
